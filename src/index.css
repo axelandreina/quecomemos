@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 body {
-  background-color: #ffedd5;
-padding: 30px;
+  background-color: #fff;
+  padding-top: 20px;
+  padding-left: 30px;
   font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
